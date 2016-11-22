@@ -1,1 +1,2 @@
-lel
+#include<stdio.h>
+#include<stdlib.h>
